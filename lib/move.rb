@@ -8,6 +8,6 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(number)
-    gets.strip = number
-
+def input_to_index(string)
+    gets.strip = string
+    
