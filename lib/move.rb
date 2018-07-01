@@ -17,3 +17,5 @@ end
 
 #def move(array, index, value)
 #    array
+
+puts index
