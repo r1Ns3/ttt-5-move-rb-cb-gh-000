@@ -13,4 +13,5 @@ def input_to_index(string)
     number - 1 = index
 end
 
-def move 
+def move
+    
