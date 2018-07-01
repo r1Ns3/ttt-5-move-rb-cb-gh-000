@@ -12,6 +12,3 @@ def input_to_index(string)
     string.to_i = number
     number - 1 = index
 end
-
-def move
-    
