@@ -15,5 +15,5 @@ end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def move(array, index, value)
-    array
+def move(board, index, value)
+    board(index) = value
