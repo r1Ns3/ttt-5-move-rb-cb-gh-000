@@ -9,4 +9,5 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(string)
-    string.to_i = index 
+    gets.strip = string
+    string.to_i = index
