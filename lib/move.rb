@@ -12,3 +12,8 @@ def input_to_index(string)
     number = string.to_i
     index = number - 1
 end
+
+#board = [""]
+
+#def move(array, index, value)
+#    array
