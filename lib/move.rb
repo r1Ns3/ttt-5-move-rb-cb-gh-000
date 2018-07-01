@@ -13,9 +13,5 @@ def input_to_index(string)
     index = number - 1
 end
 
-#board = [""]
-
-#def move(array, index, value)
-#    array
-
-puts "#{index}"
+def move(array, index, value)
+    array
